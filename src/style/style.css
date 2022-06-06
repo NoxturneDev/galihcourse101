@@ -8,6 +8,7 @@ body {
     font-family: "Poppins", sans-serif;
     /* font-family: "Roboto", sans-serif; */
     background-color: rgba(211, 211, 211, 0.219);
+    overflow-x: hidden;
 }
 
 /* HEADER */
